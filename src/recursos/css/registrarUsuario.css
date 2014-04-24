@@ -1,0 +1,12 @@
+#campo{
+	
+	height: 20px;
+
+}
+
+#campo label{
+	width: 10%;
+	float: left;
+	margin-top:5px;
+
+}
